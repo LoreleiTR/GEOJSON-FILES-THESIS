@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BSU ROADS FINAL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 121.073386419162105, 13.785293894299798 ], [ 121.073478448271885, 13.784710141843885 ], [ 121.073526380099864, 13.784674762860266 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 121.073528297373016, 13.784674762860261 ], [ 121.074137031588776, 13.784717590050278 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 121.074137031588776, 13.784718521076062 ], [ 121.074256373992725, 13.784631778830251 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 121.074211565581408, 13.785358716801074 ], [ 121.074299760144939, 13.783935177945983 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 121.074294966962142, 13.784043177273833 ], [ 121.074678421586285, 13.784073901211421 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 121.074299640315431, 13.783936341732108 ], [ 121.074325523502566, 13.78382741132552 ], [ 121.074471236259711, 13.783777601250881 ], [ 121.074587231283516, 13.783756653085478 ], [ 121.07468974170763, 13.78375422525575 ] ] ] } }
+]
+}
